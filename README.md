@@ -16,6 +16,8 @@ I constructed an integrated dashboard consolidating orders, inventory, and staff
 
 Feel free to explore the code and visualizations, and reach out if you have any questions or feedback.
 
+Email: anthonycortes@ymail.com
+
 Link to dashboard: https://public.tableau.com/app/profile/anthony.cortes/viz/IntegratedPizzeriaOperationsDashboard/Dashboard1
 
 
